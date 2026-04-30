@@ -1,18 +1,10 @@
 ---
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: e4a6613f02c066d250f3ae288ad9d76d
-    PropagateID: e4a6613f02c066d250f3ae288ad9d76d
-    ReservedCode1: 3045022100dd0b1a05b2cbf314bf73ade7af883e15d4d10a98daef38ee8ec0d358511e1601022025b3069276375601cfdef6d9d511134ff5e783deabe519f628ac05d5d9fb4140
-    ReservedCode2: 3045022100e2752ab35bb5388c1cadcc3bb1a04b50fb367a2d9e9242bd5f617eedc8a113f1022052eaff72e79daa216083e842d3c84460843c8971eb59dbde06d5a7844426949b
-description: 'Use this skill when users need to analyze video account styles, create food exploration videos, generate cover designs, write video scripts, or find restaurant recommendations. Triggers: analyze account style, create video script, generate cover text, write captions, find nearby restaurants, food exploration, restaurant recommendation, video creation. 探店创作全能助手 - 集视频风格分析、短视频创作、餐厅推荐于一体的探店类短视频一站式解决方案。模拟郭特宜等热门博主的创作风格，提供账号分析、封面设计、文案撰写、脚本创作、餐厅发现等全链路服务。'
-license: MIT
+name: "guote-yi-style-creator"
+description: "Use this skill when users need to analyze video account styles, create food exploration videos, generate cover designs, write video scripts, or find restaurant recommendations. Triggers: analyze account style, create video script, generate cover text, write captions, find nearby restaurants, food exploration, restaurant recommendation, video creation. 探店创作全能助手 - 集视频风格分析、短视频创作、餐厅推荐于一体的探店类短视频一站式解决方案。模拟郭特宜等热门博主的创作风格，提供账号分析、封面设计、文案撰写、脚本创作、餐厅发现等全链路服务。"
+license: "MIT"
 metadata:
-    category: content-creation
-    version: 1.0.0
-name: guote-yi-style-creator
+  version: "1.0.0"
+  category: "content-creation"
 ---
 
 # 探店创作全能助手
